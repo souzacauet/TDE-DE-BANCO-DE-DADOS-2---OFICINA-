@@ -56,7 +56,7 @@ TDE-DE-BANCO-DE-DADOS-2---OFICINA-/
 ├── oficina.py             # Regras gerais e menus operacionais da oficina
 └── main.py                # Ponto de entrada da aplicação (CLI)
 
-## Siga esses codigos para fazer a instalação do banco de dados no codespace
+## Siga esses codigos para fazer a instalação do banco de dados no codespace. ESCREVA ESSES CODIGOS NO TERMINAL.
 1. sudo apt-get update && sudo apt-get install -y mysql-server
 
 2. sudo service mysql start
