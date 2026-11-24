@@ -76,4 +76,3 @@ TDE-DE-BANCO-DE-DADOS-2---OFICINA-/
 9. python -c "from db import conectar; c = conectar(); print('OK:', bool(c)); c and c.close()"
 
 10. python main.py
-11. sudo mysql oficina -e "SHOW TABLES;"
